@@ -16,4 +16,5 @@ Data Collection ----> Column Selection ---> Data Transformation ----> Parameters
 - Printing optimal values of parameters (lamda, mu, c)
 
 # 4. Results
-<img width="554" height="89" alt="image" src="https://github.com/user-attachments/assets/f8617d71-a5ba-486e-bfb4-cb19f1472e05" />
+<img width="473" height="80" alt="image" src="https://github.com/user-attachments/assets/828f0caa-fbc3-414e-82e6-2a6906aee629" />
+
