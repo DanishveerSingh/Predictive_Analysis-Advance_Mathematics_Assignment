@@ -33,4 +33,5 @@ lamda, mu, c = result.x
 # Output Parameters
 print("Lamda:", lamda)
 print("Mu:", mu)
+
 print("C:", c)
