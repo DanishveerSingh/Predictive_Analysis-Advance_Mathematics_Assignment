@@ -1,7 +1,7 @@
 # Title: Probability Density Function using Non-Linear Model
 
 # 1. Methodology
-Data Collection ----> Column Selection ---> Data Transformation ----> Parameters and Probability function estimation ----> Parameters printing
+Data Collection ----> Column Selection ----> Data Transformation ----> Parameters and Probability function estimation ----> Parameters printing
 
 # 2. Description
 - Dataset: data.csv
